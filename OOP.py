@@ -87,7 +87,7 @@ print("\n--- Група студентів ---")
 group = StudentGroup()
 group.add_student(student1)
 group.add_student(student2)
-group.add_student(student3)
+group.add_student(18)
 
 print(group)
 print(group.group_average_grade())
